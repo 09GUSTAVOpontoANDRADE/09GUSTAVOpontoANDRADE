@@ -1,16 +1,13 @@
-## Hi there 👋
+🖥️ Atuação como Técnico em Informática
 
-<!--
-**09GUSTAVOpontoANDRADE/09GUSTAVOpontoANDRADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Manutenção preventiva e corretiva de computadores
 
-Here are some ideas to get you started:
+💾 Instalação e configuração de sistemas operacionais e softwares
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Suporte técnico em redes e conectividade
+
+🛠️ Diagnóstico e solução de problemas de hardware e software
+
+⚙️ Otimização de desempenho de máquinas
+
+👨‍💻 Atendimento ao usuário com foco em eficiência e clareza
